@@ -1,0 +1,18 @@
+# Python cache
+pycache/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# Generated reports
+Reports.txt
+
+# Temporary files
+*.tmp
+*~
