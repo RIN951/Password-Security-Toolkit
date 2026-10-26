@@ -52,6 +52,6 @@ presence of various types of characters.
 
 3. This project is intended for educational purposes and is not a substitute for specialized password management tools.
 ### Author:
-Rodin Irinarh Vadimovich 16 years old.
+Rodin Irinarh Vadimovich
 
 RIN
